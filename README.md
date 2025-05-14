@@ -1,3 +1,4 @@
+TASK - 1
 Comprehensive Data Cleaning Report (Using Excel)
 
 As part of the data preparation process, I carried out a series of data cleaning tasks in Excel to ensure the dataset is accurate, consistent, and analysis-ready. Below are the key steps I followed:
@@ -19,3 +20,35 @@ To enhance readability and consistency, I reformatted column headers by renaming
 
 Data Type Verification and Correction
 I reviewed each column to confirm that the data types were appropriate. For instance, age fields were set to numeric formats, while date fields were validated to ensure they were properly recognized as date objects in Excel. Any incorrect formats were corrected to align with their intended data types.
+
+
+TASK - 2
+
+
+1. Sales vs Profit by Region (Stacked Bar Chart)
+Insight: The West region has high sales but low profit, likely due to high discounts or low-margin products.
+
+This helps identify where revenue is not turning into profit.
+
+2. Sales Trend Over Time (Line Chart)
+Insight: Sales show a seasonal spike during Q4 (October–December) each year, indicating strong holiday performance.
+
+Businesses can plan inventory and marketing around this trend.
+
+3. Top & Bottom Performing Sub-Categories by Profit (Bar Chart)
+Insight: While categories like Copiers are highly profitable, others like Tables and Bookcases show negative profit.
+
+These underperforming areas may need pricing or product changes.
+
+4. Segment-wise Profitability (Donut Chart)
+Insight: The Corporate segment is the most profitable, while Home Office lags behind.
+
+Targeted campaigns can be created to boost engagement with underperforming segments.
+
+5. Profit vs Average Discount by Category (Clustered Column Chart)
+Insight: The Furniture category offers the highest average discounts, yet returns lowest profit.
+
+Consider reducing discount rates to improve profit margins.
+
+🎯 Business Conclusion:
+The data reveals that sales alone are not enough — profit varies widely by region, category, and customer segment. Strategic adjustments in discount policies, product focus, and marketing can help improve overall profitability.
