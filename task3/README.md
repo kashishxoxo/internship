@@ -12,7 +12,8 @@ Query optimization with Indexes
 
 MySQL Workbench
 Dataset: project1_df.csv (eCommerce transactions)
-Files Included -
+
+## Files Included -
 
 task3.sql: Contains all SQL queries as per task requirements.
 output.pdf: Folder containing output screenshots of executed queries.
