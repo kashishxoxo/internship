@@ -42,7 +42,7 @@ To explore, analyze, and visualize Superstore sales data using **Power BI** and 
 
 ---
 
-## 📝 Summary:
+##  Summary:
 This project demonstrates the use of Power BI for **visual storytelling**. Insights from the data can help drive strategic decisions such as:
 - Reducing discounts in low-margin categories
 - Boosting marketing for high-profit segments
@@ -50,10 +50,7 @@ This project demonstrates the use of Power BI for **visual storytelling**. Insig
 
 ---
 
-## 📎 Files Included:
-- Screenshots of all 5 dashboards
-- PDF export of the Power BI dashboard
-- This README file
+
 
 ---
 
